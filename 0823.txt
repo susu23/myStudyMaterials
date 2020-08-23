@@ -1,1 +1,4 @@
 linux常用命令记录
+tail -f
+grep 查询匹配的字符
+pwd 查看路径

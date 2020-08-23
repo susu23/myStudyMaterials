@@ -1,4 +1,10 @@
 linux常用命令记录
 tail -f
 grep 查询匹配的字符
-pwd 查看路径
+pwd  显示当前的目录路径
+cd  进入某个目录
+mkdir 创建目录
+tar
+more
+less
+

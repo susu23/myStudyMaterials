@@ -1,0 +1,26 @@
+1.设置用户名和邮箱地址
+git config --global user.name ''XX''
+git config --global user.email "邮箱地址"
+2.创建SSH Key
+ssh-keygen -t rsa -C "邮箱地址"
+3.git clone 
+4.git add  //将文件加入暂存区
+5.git commit    //将当前暂存区的文件提交到仓库
+6.git log  //查看提交日志
+7.git push   //
+8.git init  //初始化仓库
+9.git status  //查看仓库状态
+10.git diff  //查看更改前后的差别
+11.git branch  //将分支名列表显示，同时可以确认当前所在分支
+git branch -a //显示本地仓库和远程仓库的分支信息
+12.git checkout -b  分支名称   //创建、切换分支
+13.git checkout 分支名称   //切换分支
+14.git merge   //合并分支
+15.git reset  //回溯历史版本
+远程仓库操作
+16.git remote add   //添加远程仓库
+17.git push  //推送至远程仓库
+git push -u origin master   //推送至master分支
+18.获取远程的feature-D分支到本地
+git checkout -b feature-D origin/feature-D
+19.git pull  //获取最新的远程仓库分支

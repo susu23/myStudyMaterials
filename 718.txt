@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 test20210718CCCCCCClKK
+=======
+test20210718lalallaal
+>>>>>>> feature0718
+test20210718CCCCCCClKK
+test20210718lalallaal
